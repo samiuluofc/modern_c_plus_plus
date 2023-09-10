@@ -1,10 +1,13 @@
 # modern_c_plus_plus
 
-## Setting VS code:
+Setting VS code:
+```
 https://code.visualstudio.com/docs/languages/cpp
+```
 
-## Github SSH setup and others:
+Github SSH setup:
 
+```
 brew install git
 git --version
 git config --global user.name "Samiul Azam"
@@ -18,3 +21,4 @@ ssh-keygen -t rsa
 cat .ssh/id_rsa.pub
 
 # Register the public key at https://github.com/settings/keys
+```
